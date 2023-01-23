@@ -21,7 +21,8 @@ array should look like this when you're done:
     birthday: "Fri Aug 20 1971"
 }
 
-Read about toDateString() for info on formatting a readable date. 
+- Read about toDateString() for info on formatting a readable date. 
+- If you get an error about importing data in here, debug it and figure out why it's not importing correctly.
 
 */
 function transformData(data) {}
