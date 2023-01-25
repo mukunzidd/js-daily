@@ -1,4 +1,4 @@
-/* Challenge 1: Favorite Foods
+/* Favorite Foods
 - Topic: Object Destructuring
 1. Edit the faveFoods object so that it contains 
 your favorite foods.

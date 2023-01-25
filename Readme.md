@@ -6,6 +6,7 @@ Let's practice JavaScript everyday.
 - Day 3: [🤤 Favorite Foods](3-favorite-foods/index.js)
 - Day 4: [🤫 Shhh... Whispering Function](4-ssh-whispering-function/index.js)
 - Day 5: [🍭 Candy Sale](4-ssh-whispering-function/index.js)
+- Day 6: [🌮 Toco Tuesday](4-ssh-whispering-function/index.js)
 
  
 _More challenge updates daily 🔥🔥🔥_
